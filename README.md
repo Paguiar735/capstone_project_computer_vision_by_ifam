@@ -18,6 +18,8 @@ Capstone project of vocational training on Computer Vision. The capstone project
 
 Given the fact that we couldn't find the necessary resources in town to build a more elaborate POC in a timely manner, we decided to source them from abroad. These resources are scheduled to arrive roughly in the first half of 2023.
 
+> **Note**: the entry in the country of the resistor kit with 100 different resistance values has been rejected by Brazilian Customs. I'll try looking for them in the nearby free trade zone, since finding that many different resistor values will not only be difficult, but also expensive. I'll get back to this repository once I have it sorted out.
+
 ## Case Study
 
 TODO
